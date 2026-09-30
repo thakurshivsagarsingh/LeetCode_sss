@@ -13,4 +13,12 @@
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/0450-delete-node-in-a-bst) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
