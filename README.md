@@ -38,4 +38,13 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/0344-reverse-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
