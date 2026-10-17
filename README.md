@@ -30,4 +30,12 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
