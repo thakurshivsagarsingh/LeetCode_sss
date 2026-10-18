@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/0389-find-the-difference) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -47,4 +49,12 @@
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Hash Table
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
