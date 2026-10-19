@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/0450-delete-node-in-a-bst) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Tree
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/0136-single-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -57,4 +59,5 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/0389-find-the-difference) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
