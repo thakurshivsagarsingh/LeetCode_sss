@@ -53,6 +53,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/0258-add-digits) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Hash Table
 |  |
@@ -68,5 +69,10 @@
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/0268-missing-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
