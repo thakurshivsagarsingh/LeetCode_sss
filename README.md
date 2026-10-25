@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/0268-missing-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -71,6 +72,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/0268-missing-number) |
 ## Number Theory
