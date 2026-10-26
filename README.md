@@ -72,6 +72,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/0268-missing-number) |
