@@ -23,6 +23,7 @@
 | [0136-single-number](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1480-running-sum-of-1d-array](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/1480-running-sum-of-1d-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/3925-concatenate-array-with-reverse) |
 ## Bit Manipulation
@@ -82,4 +83,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/0258-add-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/thakurshivsagarsingh/LeetCode_sss/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
